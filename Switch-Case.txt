@@ -1,0 +1,36 @@
+//Problem-X.3 (Random code with if/else & switch case condition);
+#include<stdio.h>
+int main()
+{
+    int a;
+    printf("Enter a number between 1-5: ");
+    scanf("%d", &a);
+
+ /* 
+    //This is if else code:
+    if (a==1){
+        printf("Hey");
+    }else if (a==2){
+        printf("Hello");
+    }else{
+        printf("Good bye");
+    }
+
+*/
+/*
+    //This is switch case code:
+    switch (a){
+    case 1:
+        printf("Hey"); break;
+    case 2:
+        printf("Hello"); break;
+    case 3:
+        printf("I love coding"); break;
+    default:
+        printf("Good bye");
+
+*/
+    }
+    getch();
+    return 0;
+}
